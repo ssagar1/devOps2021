@@ -1,1 +1,1 @@
-new line
+This is new test file.
